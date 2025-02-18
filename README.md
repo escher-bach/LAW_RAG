@@ -1,4 +1,4 @@
-# legal
+# Legal Document Analyzer
 
 ## Setup
 
